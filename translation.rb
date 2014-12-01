@@ -1,6 +1,6 @@
 life = gets.chomp
 if life == "42"
-	print "Meaning of life"
+	puts "Meaning of life"
 else 
-	print "Not important"
+	puts "Not important"
 end

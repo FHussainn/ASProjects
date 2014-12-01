@@ -1,2 +1,2 @@
-nam= ['F', 'A' , 'R' , 'I' , 'S']
-nam.each {|n| puts n.ord}
+nam= ['48', '61' , '70' , '70' , '79']
+nam.each {|n| puts n.chr}
