@@ -1,4 +1,4 @@
-print "How many people will be eating?"
+print "How many people will be eating? - "
 people = gets.chomp.to_i
 
 pastabows = 50
